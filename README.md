@@ -48,5 +48,5 @@ The K-Means algorithm successfully grouped customers into meaningful clusters ba
 - Optimize product recommendations
 - Support business decision-making
 
-## Project Structure
+
 
